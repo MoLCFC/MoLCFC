@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmood Gheith</h1>
-<h3 align="center">Data Analyst and Software Engineer from Staten Island, New York Work</h3>
+<h3 align="center">Data Analyst and Software Engineer from Staten Island, New York </h3>
 
 - 🔭 I’m currently working on **Sorting Algorithm Performance Analysis**
 
