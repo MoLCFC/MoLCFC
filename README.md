@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmood Gheith</h1>
-<h3 align="center">Data Analyst and Software Engineer from Staten Island, New York Work</h3>
+<h3 align="center">Data Analyst and Software Engineer from Staten Island, New York </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=molcfc&label=Profile%20views&color=0e75b6&style=flat" alt="molcfc" /> </p>
 
